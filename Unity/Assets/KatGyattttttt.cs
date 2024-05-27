@@ -5,6 +5,8 @@ using UnityEngine;
 public class KatGyattttttt : MonoBehaviour
 {
 
+    // This comment is added to test if the logs are working or not.
+
     public Transform kaicenat;
     private int x = 0;
 
